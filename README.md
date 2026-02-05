@@ -1,4 +1,4 @@
-# myjenu7
+# mrjenu7
 # 💫 About Me:
 I am a passionate AI Developer with experience in building intelligent, scalable, and real-world solutions using modern technologies. I have a strong foundation in Python, JavaScript, and the MERN stack (ReactJS, NodeJS, MongoDB), along with experience in database management using SQL and MongoDB. <br>Currently, I am working as an AI Developer, where I focus on developing AI-driven features, backend systems, and full-stack web applications. I enjoy solving complex problems, optimizing system performance, and continuously learning new technologies to deliver impactful products.
 
